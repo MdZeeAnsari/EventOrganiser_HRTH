@@ -1,2 +1,2 @@
-# EventOrganiser_HRTH
+# InvoiceGenerator_Management
 Java &amp; DBMS Project
